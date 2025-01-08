@@ -7,3 +7,4 @@ RUN echo "course is: ${course}, Duration is: ${Duration}"
 CMD ["sleep" , "100"]
 
 
+
